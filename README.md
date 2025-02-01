@@ -42,7 +42,7 @@ student-rank-predictor/
 ## ⚙️ Setup Instructions
 ### 1️⃣ Clone Repository
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Ankit-Raj5/Rank-Predictor
 cd student-rank-predictor
 ```
 ### 2️⃣ Install Dependencies
@@ -110,22 +110,9 @@ npm run dev
 
 ---
 
-## 📷 Screenshots
-(Add screenshots of key API outputs, visualizations, or analytics dashboards here)
-
----
-
-## 📞 Contact & Contributions
-If you’d like to contribute, raise an issue or submit a pull request!
-
-📧 **Contact:** your.email@example.com
-
----
-
 ### 🚀 **Future Enhancements**
 ✅ **College Admission Predictor** based on NEET rank.
 ✅ **Real-time Leaderboard** for students.
 ✅ **Improved Machine Learning Model** for rank prediction.
 
-Happy Coding! 🎯
 
